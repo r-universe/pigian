@@ -1,5 +1,49 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "audrex"]
+	path = audrex
+	url = https://github.com/cran/audrex
+[submodule "codez"]
+	path = codez
+	url = https://github.com/cran/codez
+[submodule "dymo"]
+	path = dymo
+	url = https://github.com/cran/dymo
+[submodule "hmix"]
+	path = hmix
+	url = https://github.com/cran/hmix
+[submodule "janus"]
+	path = janus
+	url = https://github.com/cran/janus
+[submodule "jenga"]
+	path = jenga
+	url = https://github.com/cran/jenga
+[submodule "lambdaTS"]
+	path = lambdaTS
+	url = https://github.com/cran/lambdaTS
+[submodule "naive"]
+	path = naive
+	url = https://github.com/cran/naive
+[submodule "proteus"]
+	path = proteus
+	url = https://github.com/cran/proteus
+[submodule "segen"]
+	path = segen
+	url = https://github.com/cran/segen
+[submodule "sense"]
+	path = sense
+	url = https://github.com/cran/sense
+[submodule "snap"]
+	path = snap
+	url = https://github.com/cran/snap
+[submodule "spinner"]
+	path = spinner
+	url = https://github.com/cran/spinner
+[submodule "spooky"]
+	path = spooky
+	url = https://github.com/cran/spooky
+[submodule "tetragon"]
+	path = tetragon
+	url = https://github.com/cran/tetragon
