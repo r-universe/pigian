@@ -5,6 +5,9 @@
 [submodule "audrex"]
 	path = audrex
 	url = https://github.com/cran/audrex
+[submodule "chopper"]
+	path = chopper
+	url = https://github.com/cran/chopper
 [submodule "codez"]
 	path = codez
 	url = https://github.com/cran/codez
