@@ -53,6 +53,9 @@
 [submodule "tetragon"]
 	path = tetragon
 	url = https://github.com/cran/tetragon
+[submodule "unfold"]
+	path = unfold
+	url = https://github.com/cran/unfold
 [submodule "xpect"]
 	path = xpect
 	url = https://github.com/cran/xpect
