@@ -29,6 +29,9 @@
 [submodule "naive"]
 	path = naive
 	url = https://github.com/cran/naive
+[submodule "organik"]
+	path = organik
+	url = https://github.com/cran/organik
 [submodule "proteus"]
 	path = proteus
 	url = https://github.com/cran/proteus
