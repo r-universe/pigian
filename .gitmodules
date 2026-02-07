@@ -59,6 +59,9 @@
 [submodule "unfold"]
 	path = unfold
 	url = https://github.com/cran/unfold
+[submodule "wired"]
+	path = wired
+	url = https://github.com/cran/wired
 [submodule "xpect"]
 	path = xpect
 	url = https://github.com/cran/xpect
