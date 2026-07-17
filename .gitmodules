@@ -50,6 +50,9 @@
 [submodule "spooky"]
 	path = spooky
 	url = https://github.com/cran/spooky
+[submodule "temper"]
+	path = temper
+	url = https://github.com/cran/temper
 [submodule "tetragon"]
 	path = tetragon
 	url = https://github.com/cran/tetragon
