@@ -38,6 +38,9 @@
 [submodule "proteus"]
 	path = proteus
 	url = https://github.com/cran/proteus
+[submodule "rollcast"]
+	path = rollcast
+	url = https://github.com/cran/rollcast
 [submodule "segen"]
 	path = segen
 	url = https://github.com/cran/segen
