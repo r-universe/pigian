@@ -17,6 +17,9 @@
 [submodule "dymo"]
 	path = dymo
 	url = https://github.com/cran/dymo
+[submodule "flowz"]
+	path = flowz
+	url = https://github.com/cran/flowz
 [submodule "hmix"]
 	path = hmix
 	url = https://github.com/cran/hmix
